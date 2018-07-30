@@ -5,6 +5,7 @@
 __1、可以从以下方式中选择其一进行安装：__
 * 阿里郎-管家-办公软件管理中搜索VirtualBox，下载并安装。
 * 从<span data-type="color" style="color:rgb(36, 41, 46)"><span data-type="background" style="background-color:rgb(255, 255, 255)"> </span></span>[https://download.virtualbox.org/virtualbox/5.2.16/VirtualBox-5.2.16-123759-OSX.dmg](https://download.virtualbox.org/virtualbox/5.2.16/VirtualBox-5.2.16-123759-OSX.dmg)<span data-type="color" style="color:rgb(36, 41, 46)"><span data-type="background" style="background-color:rgb(255, 255, 255)"> 下载安装包，下载并安装</span></span>
+
 __2、下载完成后，双击VirtualBox.pkg，然后点击“继续”进入安装__
 
 
