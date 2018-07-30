@@ -58,7 +58,7 @@ __3、Check network connection__
 ```
 ping www.alibaba-inc.com
 ```
-__4、Start the pouch service (default boot) __
+__4、Start the pouch service (default boot)__
 ```
 systemctl start pouch  //If not succeed, check the network again   
 ```
@@ -70,7 +70,7 @@ __6、Do pull if no busybox available__
 ```
 pouch pull busybox
 ```
-__7、Log in the started container, the ID is the first 6 digits of the complete IDs from the previous __
+__7、Log in the started container, the ID is the first 6 digits of the complete IDs from the previous__
 ```
 pouch exec -it {ID} sh
 ```
